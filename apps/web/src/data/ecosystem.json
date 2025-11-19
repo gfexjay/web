@@ -1,11 +1,11 @@
 [
   {
-  "name": "Coinrule",
-  "description": "Launch fully self-custodial onchain automated trading strategies at lightning speed and with one-click UX. Team is backed by Y Combinator",
-  "url": "https://coinrule.com",
-  "imageUrl": "/images/partners/coinrule.png",
-  "category": "defi",
-  "subcategory": "dex aggregator"
+    "name": "Coinrule",
+    "description": "Launch fully self-custodial onchain automated trading strategies at lightning speed and with one-click UX. Team is backed by Y Combinator",
+    "url": "https://coinrule.com",
+    "imageUrl": "/images/partners/coinrule.png",
+    "category": "defi",
+    "subcategory": "dex aggregator"
   },
   {
     "name": "0x",
@@ -4583,7 +4583,7 @@
     "category": "consumer",
     "subcategory": "payments"
   },
-  {  
+  {
     "name": "KOLZ",
     "description": "A cutting-edge Web3 influencer platform designed to bridge the gap between leading influencers in the cryptocurrency and blockchain space (known as KOLs - Key Opinion Leaders) and their followers.",
     "url": "https://kolz.chat/",
@@ -4632,13 +4632,13 @@
     "subcategory": "dao"
   },
   {
-  "name": "Super OETH",
+    "name": "Super OETH",
     "url": "https://www.originprotocol.com/super",
     "description": "Super OETH is the first Ethereum LST native to the Base network. Hold superOETHb in your wallet and watch as the balance magically grows daily. Designed by Origin Protocol.",
     "imageUrl": "/images/partners/SuperOETH.png",
     "category": "defi",
     "subcategory": "yield vault"
-   },
+  },
   {
     "name": "Levva",
     "url": "https://levva.fi/",
@@ -4646,5 +4646,13 @@
     "imageUrl": "/images/partners/levva.png",
     "category": "defi",
     "subcategory": "portfolios"
+  },
+  {
+    "name": "GFEX",
+    "description": "GFEX (Gapped Futures Exchange) is a fully decentralized, Web3 prediction platform. Every transaction is an On-Chain Record, guaranteeing 100% transparency and unmanipulability. Users predict the Gap Index in 60 seconds and receive instant distribution of profits directly to their wallet. Trustless and fast futures trading.",
+    "url": "https://www.gfex.io",
+    "imageUrl": "/images/partners/gfex.png",
+    "category": "defi",
+    "subcategory": "dex"
   }
 ]
